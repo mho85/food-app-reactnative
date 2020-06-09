@@ -7,7 +7,7 @@ const navigator = createStackNavigator({
 }, {
   initialRouteName: 'Search',
   defaultNavigationOptions: {
-    title: "Mho's food app"
+    title: "Business Search"
   }
 });
 
